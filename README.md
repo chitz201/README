@@ -1,2 +1,4 @@
 # README
-I want to create a new website for my company, a motorcycle and appliance store. I want to use wordpress for this. Please help me.
+
+Greetings!
+I'm Chitto, a newbie on programming. I work as a web developer and a freelance photographer.
